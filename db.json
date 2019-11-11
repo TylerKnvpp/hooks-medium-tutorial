@@ -2,16 +2,21 @@
   "tasks": [
     {
       "id": 1,
+      "task": "clone boilerplate",
+      "completed": true
+    },
+    {
+      "id": 2,
       "task": "learn useState",
       "completed": false
     },
     {
-      "id": 2,
+      "id": 3,
       "task": "learn useEffect",
       "completed": false
     },
     {
-      "id": 3,
+      "id": 4,
       "task": "Implement HTTP requests",
       "completed": false
     }
