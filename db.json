@@ -12,33 +12,8 @@
     },
     {
       "id": 3,
-      "task": "learn suspense",
+      "task": "Implement HTTP requests",
       "completed": false
-    },
-    {
-      "task": "learnt",
-      "completed": true,
-      "id": 4
-    },
-    {
-      "task": "asdf",
-      "completed": true,
-      "id": 5
-    },
-    {
-      "task": "qwer",
-      "completed": true,
-      "id": 6
-    },
-    {
-      "task": "dfgn",
-      "completed": true,
-      "id": 7
-    },
-    {
-      "task": "hooks yeah",
-      "completed": false,
-      "id": 8
     }
   ]
 }
