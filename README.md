@@ -13,3 +13,5 @@ json-server --watch db.json
 yarn start
 
 ```
+
+To compare your code vs. a working solution, please open 'completed' branch.
